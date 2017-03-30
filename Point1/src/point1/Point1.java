@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package point1;
+package point;
 
 /**
  *
  * @author PC
  */
-public class Point1 {
+public class Point {
 
     /**
      * @param args the command line arguments
